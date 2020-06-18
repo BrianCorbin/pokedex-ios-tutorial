@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "name": "Bulbasaur",
+        "types": ["grass", "poison"],
+        "pokedexColor": "64C4AC",
+        "stats": [45, 49, 49, 65, 65, 45],
+        "weight": 69
+    },
+    {
+        "id": 2,
+        "name": "Ivysaur",
+        "types": ["grass", "poison"],
+        "pokedexColor": "48AFA0",
+        "stats": [60, 62, 63, 80, 80, 60],
+        "weight": 130
+    },
+    {
+        "id": 3,
+        "name": "Venusaur",
+        "types": ["grass", "poison"],
+        "pokedexColor": "3AB49F",
+        "stats": [80, 82, 83, 100, 100, 80],
+        "weight": 1000
+    },
+    {
+        "id": 4,
+        "name": "Charmander",
+        "types": ["fire"],
+        "pokedexColor": "F5A14A",
+        "stats": [39, 52, 43, 60, 50, 65],
+        "weight": 85
+    },
+    {
+        "id": 5,
+        "name": "Charmeleon",
+        "types": ["fire"],
+        "pokedexColor": "DB4738",
+        "stats": [58, 64, 58, 80, 65, 80],
+        "weight": 190
+    },
+    {
+        "id": 6,
+        "name": "Charizard",
+        "types": ["fire", "flying"],
+        "pokedexColor": "D56930",
+        "stats": [78, 84, 78, 109, 85, 100],
+        "weight": 905
+    },
+    {
+        "id": 7,
+        "name": "Squirtle",
+        "types": ["water"],
+        "pokedexColor": "78B0B7",
+        "stats": [44, 48, 65, 50, 64, 43],
+        "weight": 90
+    },
+    {
+        "id": 8,
+        "name": "Wartortle",
+        "types": ["water"],
+        "pokedexColor": "7C96D7",
+        "stats": [59, 63, 80, 65, 80, 58],
+        "weight": 225
+    },
+    {
+        "id": 9,
+        "name": "Blastoise",
+        "types": ["water"],
+        "pokedexColor": "436DA5",
+        "stats": [79, 83, 100, 85, 105, 78],
+        "weight": 855
+    },
+    {
+        "id": 10,
+        "name": "Caterpie",
+        "types": ["bug"],
+        "pokedexColor": "5CB443",
+        "stats": [79, 83, 100, 85, 105, 78],
+        "weight": 855
+    },
+    {
+        "id": 11,
+        "name": "Metapod",
+        "types": ["bug"],
+        "pokedexColor": "80BB4B",
+        "stats": [79, 83, 100, 85, 105, 78],
+        "weight": 855
+    },
+    {
+        "id": 12,
+        "name": "Butterfree",
+        "types": ["bug", "flying"],
+        "pokedexColor": "9293B6",
+        "stats": [79, 83, 100, 85, 105, 78],
+        "weight": 855
+    },
+    {
+        "id": 13,
+        "name": "Weedle",
+        "types": ["bug", "poison"],
+        "pokedexColor": "DC9433",
+        "stats": [79, 83, 100, 85, 105, 78],
+        "weight": 855
+    },
+    {
+        "id": 14,
+        "name": "Kakuna",
+        "types": ["bug", "poison"],
+        "pokedexColor": "D8B029",
+        "stats": [79, 83, 100, 85, 105, 78],
+        "weight": 855
+    },
+    {
+        "id": 15,
+        "name": "Beedrill",
+        "types": ["bug", "poison"],
+        "pokedexColor": "CF8E3A",
+        "stats": [79, 83, 100, 85, 105, 78],
+        "weight": 855
+    },
+    {
+        "id": 94,
+        "name": "Gengar",
+        "types": ["ghost", "poison"],
+        "pokedexColor": "916FAB",
+        "stats": [60, 65, 60, 130, 75, 110],
+        "weight": 405
+    }
+]
